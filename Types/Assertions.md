@@ -3,6 +3,8 @@
 Aserciones de tipo
 Las aserciones de tipo en TypeScript son una forma de decirle al compilador que trate un valor como un tipo específico, independientemente de su tipo inferido.
 
+#### En pocas palabras, es CASTEAR UN VALOR A UN TIPO DE DATO.
+
 Hay dos sintaxis para las aserciones de tipo en TypeScript:
 
 + The “angle-bracket” syntax: <T>value
